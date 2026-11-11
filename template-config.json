@@ -11,7 +11,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "image": "rustrak/rustrak-server:v0.16.3"
+        "image": "rustrak/rustrak-server:v0.25.0"
       },
       "networking": {
         "serviceDomains": {
